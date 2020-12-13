@@ -1,0 +1,10 @@
+.red{
+	color: red;
+}
+
+.icon{
+	width: 64px;
+	height: 64px;
+	background: url(../images/icon.png) 0 0 no-repeat;
+	background-size: contain;
+}
